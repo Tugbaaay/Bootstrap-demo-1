@@ -7,4 +7,4 @@ Bu projeyi yaparken bootstrap'in css kullanımını nasıl pratik hale getirdiğ
 Bootstrap dökümantasyonuna ulaşmak için [buraya tıklayınız.](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
 
 
-Projenin canlı haline bakmak için [buraya tıklayınız.](https://https://bootstrap-demo-1-tugbaay.netlify.app/)
+Projenin canlı haline bakmak için [buraya tıklayınız.](https://bootstrap-demo-1-tugbaay.netlify.app/)
